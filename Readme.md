@@ -1,1 +1,1 @@
-thuis is just to try
+cd thuis is just to try
